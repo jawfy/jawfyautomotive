@@ -72,7 +72,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   padding: 64px 5%;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -179,10 +179,6 @@
   border-color: #004dfe;
   background-color: #fff;
   color: #004dfe;
-}
-
-.body {
-  height: 100%;
 }
 
 .heading {
